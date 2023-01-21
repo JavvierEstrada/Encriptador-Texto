@@ -20,11 +20,11 @@ Aunque me tomé la libertad de cambiar un poco ese apartado, quedando de la sigu
 
 Para este encriptador, usé una serie de números y letras al azar para poder encriptar de mejor manera los mensajes:
 
-//La letra a: rzy
-//La letra e: 39t
-//La letra i: 1z66
-//La letra o: 1zm
-//La letra u: m2yw
+* La letra a: rzy
+* La letra e: 39t
+* La letra i: 1z66
+* La letra o: 1zm
+* La letra u: m2yw
 
 //////////////////////////////////////////
 
