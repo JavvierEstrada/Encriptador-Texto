@@ -1,6 +1,7 @@
 # Challenge Encriptador de texto - ALURA ONE
 
 Proyecto #1 de Alura - Encriptador de Texto
+
 Encriptador de Texto es un proyecto que, como su nombre indica, nos ayudará a encriptar alguna palabra o algún texto que nosotros ingresemos en un campo, para posteriormente y con ayuda de un “button”, el mensaje sea encriptado.
 
 Este proyecto se llevó a cabo con ayuda de HTML, CSS y Javascript.
